@@ -5,13 +5,13 @@
       "locked": {
         "lastModified": 1756556321,
         "narHash": "sha256-RLD89dfjN0RVO86C/Mot0T7aduCygPGaYbog566F0Qo=",
-        "owner": "YaLTeR",
+        "owner": "niri-wm",
         "repo": "niri",
         "rev": "01be0e65f4eb91a9cd624ac0b76aaeab765c7294",
         "type": "github"
       },
       "original": {
-        "owner": "YaLTeR",
+        "owner": "niri-wm",
         "ref": "v25.08",
         "repo": "niri",
         "type": "github"
@@ -20,15 +20,16 @@
     "niri-unstable": {
       "flake": false,
       "locked": {
-        "lastModified": 1771305475,
-        "narHash": "sha256-lqweVTwHhYc+9T33cysp38gVwxaibGJHriOPZXWyhCY=",
-        "owner": "YaLTeR",
+        "lastModified": 1771749270,
+        "narHash": "sha256-ZJCM1XOHIdud6Jfpl4jYQOzbOJId9wmXT+hNJ1IPBIY=",
+        "owner": "niri-wm",
         "repo": "niri",
-        "rev": "a2a52911757cb3b497db9407592f9b4c439571ea",
+        "rev": "734d86ec061d15d1980c5b940b2f4dc9aee80cf5",
         "type": "github"
       },
       "original": {
-        "owner": "YaLTeR",
+        "owner": "niri-wm",
+        "ref": "wip/branch",
         "repo": "niri",
         "type": "github"
       }
